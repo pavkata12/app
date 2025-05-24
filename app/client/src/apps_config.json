@@ -1,0 +1,63 @@
+{
+    "apps": [
+        {
+            "name": "Chrome",
+            "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "icon": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "category": "Browsers"
+        },
+        {
+            "name": "Firefox",
+            "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+            "icon": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+            "category": "Browsers"
+        },
+        {
+            "name": "Notepad",
+            "path": "C:\\Windows\\System32\\notepad.exe",
+            "icon": "C:\\Windows\\System32\\notepad.exe",
+            "category": "Utilities"
+        },
+        {
+            "name": "Calculator",
+            "path": "C:\\Windows\\System32\\calc.exe",
+            "icon": "C:\\Windows\\System32\\calc.exe",
+            "category": "Utilities"
+        },
+        {
+            "name": "Paint",
+            "path": "C:\\Windows\\System32\\mspaint.exe",
+            "icon": "C:\\Windows\\System32\\mspaint.exe",
+            "category": "Graphics"
+        },
+        {
+            "name": "Word",
+            "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+            "icon": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+            "category": "Office"
+        },
+        {
+            "name": "Excel",
+            "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+            "icon": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+            "category": "Office"
+        },
+        {
+            "name": "PowerPoint",
+            "path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE",
+            "icon": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE",
+            "category": "Office"
+        }
+    ],
+    "settings": {
+        "screen_timeout": 300,
+        "categories": [
+            "Browsers",
+            "Utilities",
+            "Graphics",
+            "Office",
+            "Other"
+        ],
+        "default_category": "Other"
+    }
+} 
